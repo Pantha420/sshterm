@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/syrinsecurity/termfx"
+	"github.com/sshterm/termfx"
 )
 
 func main() {
