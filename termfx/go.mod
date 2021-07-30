@@ -1,4 +1,4 @@
-module github.com/syrinsecurity/termfx
+module github.com/sshterm/termfx
 
 go 1.14
 
